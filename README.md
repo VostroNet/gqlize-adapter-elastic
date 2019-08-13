@@ -1,0 +1,1 @@
+# gqlize-adapter-elastic
